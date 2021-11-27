@@ -6,7 +6,7 @@
 
 ## <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png"/> About Me </p> 
 
-- 👨‍💻 Connect with me **[Jakkani Sagar](www.linkedin.com/in/jakkani-sagar-a964b912a)**
+- 👨‍💻 Connect with me **[Jakkani Sagar](https://www.linkedin.com/in/jakkani-sagar-a964b912a/)**
 
 - 🌐 Checkout my **[Portfolio](--)**
 
@@ -43,9 +43,9 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/jai-yadav-4b2635140/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/Jai"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/Jai"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.linkedin.com/in/jakkani-sagar-a964b912a/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/jakkani_sagar"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/sagarjakkani19/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
 
