@@ -6,7 +6,7 @@
 
 ## <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png"/> About Me </p> 
 
-- 👨‍💻 Connect with me **[Jakkani Sagar](https://www.linkedin.com/in/jakkani-sagar-a964b912a/){:target="blank"}**
+- 👨‍💻 Connect with me **[Jakkani Sagar](https://www.linkedin.com/in/jakkani-sagar-a964b912a/)**
 
 - 🌐 Checkout my **[Portfolio](--)**
 
