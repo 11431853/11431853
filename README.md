@@ -8,7 +8,7 @@
 
 - 👨‍💻 Connect with me **[Jakkani Sagar](https://www.linkedin.com/in/jakkani-sagar-a964b912a/)**
 
-- 🌐 Checkout my **[Portfolio](--)**
+- 🌐 Checkout my **[Portfolio](https://sagarjakkani.vercel.app/)**
 
 - 🔭 I’m currently working on **[Goibibo Clone](https://github.com)**
 
